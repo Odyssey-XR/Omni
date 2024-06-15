@@ -1,0 +1,10 @@
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\bin\Debug\netstandard2.0\Omni.Generation.deps.json
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\bin\Debug\netstandard2.0\Omni.Generation.dll
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\bin\Debug\netstandard2.0\Omni.Generation.pdb
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.csproj.AssemblyReference.cache
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.AssemblyInfoInputs.cache
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.AssemblyInfo.cs
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.csproj.CoreCompileInputs.cache
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.dll
+C:\Users\JoshuaAnderson\source\repos\GDev\OmniGeneration\Packages\Omni\.managed\Omni.Generation\obj\Debug\netstandard2.0\Omni.Generation.pdb

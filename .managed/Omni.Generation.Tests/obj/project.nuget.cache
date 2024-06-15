@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "ms3lUYvK5JMYVCEsDuZkYwl44b1bzK1YI0qvoi7Buqm0puH03rKTWSgeEVdoO31ypwnqrOSkfgOCJHWUEzpChg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JoshuaAnderson\\source\\repos\\GDev\\OmniGeneration\\Packages\\Omni\\.managed\\Omni.Generation.Tests\\Omni.Generation.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0\\microsoft.codeanalysis.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.codeanalysis.common\\3.9.0\\microsoft.codeanalysis.common.3.9.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\JoshuaAnderson\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: Microsoft.CodeAnalysis.CSharp 3.8.0 requires Microsoft.CodeAnalysis.Common (= 3.8.0) but version Microsoft.CodeAnalysis.Common 3.9.0 was resolved.",
+      "libraryId": "Microsoft.CodeAnalysis.Common",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
