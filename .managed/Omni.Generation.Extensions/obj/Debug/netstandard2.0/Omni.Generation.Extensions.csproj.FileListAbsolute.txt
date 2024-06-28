@@ -1,0 +1,11 @@
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\bin\Debug\netstandard2.0\Omni.Generation.Extensions.deps.json
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\bin\Debug\netstandard2.0\Omni.Generation.Extensions.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\bin\Debug\netstandard2.0\Omni.Generation.Extensions.pdb
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.csproj.AssemblyReference.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.AssemblyInfoInputs.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.AssemblyInfo.cs
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.csproj.CoreCompileInputs.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.sourcelink.json
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Extensions\obj\Debug\netstandard2.0\Omni.Generation.Extensions.pdb

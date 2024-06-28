@@ -1,0 +1,11 @@
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\bin\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.deps.json
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\bin\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\bin\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.pdb
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.csproj.AssemblyReference.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.AssemblyInfoInputs.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.AssemblyInfo.cs
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.csproj.CoreCompileInputs.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.sourcelink.json
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.SyntaxReceivers\obj\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.pdb

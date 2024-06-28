@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference ExcludeAssets="runtime" Include="Microsoft.CodeAnalysis.Common" Version="3.9.0" />
+    <PackageReference ExcludeAssets="runtime" Include="Microsoft.CodeAnalysis.CSharp" Version="3.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Omni.Generation.Extensions\Omni.Generation.Extensions.csproj" />
+    <ProjectReference Include="..\Omni.Generation.SyntaxReceivers\Omni.Generation.SyntaxReceivers.csproj" />
+  </ItemGroup>
+
+  <Target Name="CopyFiles" AfterTargets="Build">
+    <ItemGroup>
+      <OutputFiles Include="$(OutputPath)**\*.dll" />
+      <OutputFiles Include="$(OutputPath)**\*.pdb" />
+    </ItemGroup>
+    <Copy SourceFiles="@(OutputFiles)" DestinationFolder="$(OutputPath)..\..\..\..\..\Runtime\Omni.SourceGeneration" />
+  </Target>
+</Project>

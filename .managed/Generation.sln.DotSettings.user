@@ -3,4 +3,6 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::CBF4CCFF-7BEF-4A07-864E-BEDB39E4AE98::net8.0::Omni.Generation.Tests.InjectAttributeGeneratorTests.Test1&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,16 @@
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.Generators.deps.json
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.Generators.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.Generators.pdb
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.Extensions.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.Extensions.pdb
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\bin\Debug\netstandard2.0\Omni.Generation.SyntaxReceivers.pdb
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.csproj.AssemblyReference.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.AssemblyInfoInputs.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.AssemblyInfo.cs
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.csproj.CoreCompileInputs.cache
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.sourcelink.json
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.csproj.CopyComplete
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.dll
+D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\obj\Debug\netstandard2.0\Omni.Generation.Generators.pdb

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Omni.Generation.Generators
+build_property.ProjectDir = D:\Workspace\Src\OdysseyXR\Arcadia\Packages\Omni\.managed\Omni.Generation.Generators\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

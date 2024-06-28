@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "DebugRoslynAnalyzers": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "../Omni.Generation.Analyzers.Sample/Omni.Generation.Analyzers.Sample.csproj"
+    }
+  }
+}
