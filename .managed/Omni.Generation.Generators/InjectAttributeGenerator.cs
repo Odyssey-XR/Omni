@@ -10,6 +10,15 @@ namespace Omni.Generation.Generators
   [Generator]
   public class InjectAttributeGenerator : ISourceGenerator
   {
+    private int? _a;
+    public int? a
+    {
+      get
+      {
+        return _a ??= 5;
+      }
+    }
+    
     public void Initialize(GeneratorInitializationContext context)
     {
       context.RegisterForSyntaxNotifications(() => new InjectAttributeSyntaxReceiver());
@@ -36,6 +45,8 @@ namespace Omni.Generation.Generators
       IMethodSymbol methodSymbol
     )
     {
+      bool isMonobehaviour = ((ITypeSymbol)parentSymbol).InheritsFrom("UnityEngine.MonoBehaviour");
+      
       // Create property getters
       StringBuilder usingDecl     = new();
       StringBuilder propertyDecl  = new();
@@ -56,8 +67,12 @@ namespace Omni.Generation.Generators
 
         usingDecl.AppendLine($"using {parameterAssembly};");
 
-        propertyDecl.AppendLine(
-          $"    {parameterAccessibility} {parameterType}? {parameterName} => ContainerProvider.GetInstanceOf<{parameterType}>();");
+        propertyDecl.AppendLine($"    private {parameterType}? _{parameterName} = null;");
+        
+        if (isMonobehaviour)
+          propertyDecl.AppendLine($"    {parameterAccessibility} {parameterType}? {parameterName} {{ get {{ return _{parameterName} ??= ContainerProvider.GetInstanceOf<{parameterType}>(this.gameObject); }} }}");
+        else
+        propertyDecl.AppendLine($"    {parameterAccessibility} {parameterType}? {parameterName} {{ get {{ return _{parameterName} ??= ContainerProvider.GetInstanceOf<{parameterType}>(); }} }}");
 
         parameterDecl.AppendLine(i + 1 == methodSymbol.Parameters.Length
           ? $"      {parameterType} {parameterName}"
